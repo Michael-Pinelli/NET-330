@@ -1,12 +1,6 @@
-# SEC-335
+# NET-330
 
 ## Course
 
-## Week 1
-[Passive Recon](https://github.com/Michael-Pinelli/SEC-335/blob/main/Passive%20Recon.docx)
-
-## Week 2
-[Host Discovery]()
-
 ## Journal
-[Journal](https://github.com/Michael-Pinelli/SEC-335/wiki)
+[Journal](https://github.com/Michael-Pinelli/NET-330/wiki)
